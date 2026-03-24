@@ -13,9 +13,9 @@ CREATE DATABASE leaderboard_db
     CONNECTION LIMIT = -1
     IS_TEMPLATE = False;
 
-	CREATE TABLE ScoreEvents (
+	CREATE TABLE scores (
     id UUID PRIMARY KEY,
-    UserId TEXT NOT NULL,
-    Score INT NOT NULL,
-    Timestamp TIMESTAMP NOT NULL
+    user_id TEXT NOT NULL,
+    score INT NOT NULL,
+    timestamp TIMESTAMP NOT NULL
 );
