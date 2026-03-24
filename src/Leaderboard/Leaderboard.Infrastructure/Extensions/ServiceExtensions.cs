@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Leaderboard.Domain.Services;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,7 +12,7 @@ namespace Leaderboard.Infrastructure.Extensions
         {
             var _services = AppDomain.CurrentDomain.GetAssemblies()
                 .Where(assembly => {
-                    return !(assembly.FullName is null) && assembly.FullName.Contains("CycleERPGestionHumana.Domain", StringComparison.InvariantCulture);
+                    return !(assembly.FullName is null) && assembly.FullName.Contains("Leaderboard.Domain", StringComparison.InvariantCulture);
                 })
                 .SelectMany(s => s.GetTypes())
                 .Where(p => p.CustomAttributes.Any(x => x.AttributeType == typeof(DomainServiceAttribute)));

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
+      "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
       "projectName": "Leaderboard.Domain",
-      "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
+      "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\obj\\",
+      "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

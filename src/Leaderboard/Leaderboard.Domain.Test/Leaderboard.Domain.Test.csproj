@@ -8,4 +8,12 @@
     <UseVSTest>true</UseVSTest>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NSubstitute" Version="5.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Leaderboard.Domain\Leaderboard.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

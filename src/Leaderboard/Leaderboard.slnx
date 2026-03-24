@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Leaderboard.Api.Test/Leaderboard.Api.Test.csproj" />
+  <Project Path="Leaderboard.Api.Test/Leaderboard.Api.Test.csproj" Id="b614ede2-27fe-410b-8a06-6fc5f129d65f" />
   <Project Path="Leaderboard.Api/Leaderboard.Api.csproj" />
   <Project Path="Leaderboard.Application/Leaderboard.Application.csproj" />
   <Project Path="Leaderboard.Domain.Test/Leaderboard.Domain.Test.csproj" />

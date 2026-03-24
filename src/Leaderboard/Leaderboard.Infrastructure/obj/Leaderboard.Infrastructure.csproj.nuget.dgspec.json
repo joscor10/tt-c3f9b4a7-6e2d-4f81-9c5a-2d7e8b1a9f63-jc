@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj": {}
+    "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj": {
+    "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
+        "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
         "projectName": "Leaderboard.Domain",
-        "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
+        "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\obj\\",
+        "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -345,14 +345,14 @@
         }
       }
     },
-    "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj": {
+    "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj",
+        "projectUniqueName": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj",
         "projectName": "Leaderboard.Infrastructure",
-        "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj",
+        "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\obj\\",
+        "outputPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -375,8 +375,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj": {
-                "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj"
+              "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj": {
+                "projectPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Leaderboard.Domain.csproj"
               }
             }
           }
@@ -396,6 +396,20 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

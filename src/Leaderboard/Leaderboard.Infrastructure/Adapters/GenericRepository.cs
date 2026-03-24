@@ -1,5 +1,6 @@
 ﻿using Leaderboard.Domain.Ports;
 using Leaderboard.Infrastructure.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;

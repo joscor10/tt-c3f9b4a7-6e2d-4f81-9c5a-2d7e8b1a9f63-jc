@@ -1,70 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\",
+  "WorkspaceRootPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\adapters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\adapters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B614EDE2-27FE-410B-8A06-6FC5F129D65F}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\jc test\\src\\leaderboard\\leaderboard.api.test\\leaderboardcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B614EDE2-27FE-410B-8A06-6FC5F129D65F}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|solutionrelative:leaderboard.api.test\\leaderboardcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|d:\\user\\documentos\\proyectos\\prueba\\jc test\\src\\leaderboard\\leaderboard.api\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|solutionrelative:leaderboard.api\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B80A14C7-A3D7-4332-0DCC-2225F22E276B}|Leaderboard.Application\\Leaderboard.Application.csproj|d:\\user\\documentos\\proyectos\\prueba\\jc test\\src\\leaderboard\\leaderboard.application\\scoreevent\\queries\\getleaderboardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80A14C7-A3D7-4332-0DCC-2225F22E276B}|Leaderboard.Application\\Leaderboard.Application.csproj|solutionrelative:leaderboard.application\\scoreevent\\queries\\getleaderboardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\ports\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\ports\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\context\\persistencecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\context\\persistencecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|solutionrelative:leaderboard.api\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D6886B-F327-D681-E61D-15A40942509A}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A442E22-BAC1-2A1F-3D9F-17DD5E98FAE6}|Leaderboard.Api\\Leaderboard.Api.csproj|solutionrelative:leaderboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BF03D8-8AC4-3FA2-0377-99788A5EA74F}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain.test\\leaderboard.domain.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7BF03D8-8AC4-3FA2-0377-99788A5EA74F}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|solutionrelative:leaderboard.domain.test\\leaderboard.domain.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E152E2C-10FF-3E35-CF84-D1BAE113F03C}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api.test\\leaderboard.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6E152E2C-10FF-3E35-CF84-D1BAE113F03C}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|solutionrelative:leaderboard.api.test\\leaderboard.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E152E2C-10FF-3E35-CF84-D1BAE113F03C}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E152E2C-10FF-3E35-CF84-D1BAE113F03C}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|solutionrelative:leaderboard.api.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BF03D8-8AC4-3FA2-0377-99788A5EA74F}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7BF03D8-8AC4-3FA2-0377-99788A5EA74F}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|solutionrelative:leaderboard.domain.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80A14C7-A3D7-4332-0DCC-2225F22E276B}|Leaderboard.Application\\Leaderboard.Application.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80A14C7-A3D7-4332-0DCC-2225F22E276B}|Leaderboard.Application\\Leaderboard.Application.csproj|solutionrelative:leaderboard.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\jc test\\src\\leaderboard\\leaderboard.domain\\services\\addscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87977E44-3B57-8E93-ACB5-71431EFD4B71}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\services\\addscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,196 +62,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
-              "RelativeToolTip": "Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Api\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Api\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Api\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "Leaderboard.Api\\Controllers\\LeaderboardController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T03:02:41.394Z",
+              "WhenOpened": "2026-03-24T04:38:56.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DomainEntity.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
-              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddScoreService.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Services\\AddScoreService.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Services\\AddScoreService.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Domain\\Services\\AddScoreService.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Services\\AddScoreService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T03:01:51.732Z"
+              "WhenOpened": "2026-03-24T04:34:45.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
-              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "GetLeaderboardHandler.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Application\\ScoreEvent\\Queries\\GetLeaderboardHandler.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Application\\ScoreEvent\\Queries\\GetLeaderboardHandler.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Application\\ScoreEvent\\Queries\\GetLeaderboardHandler.cs",
+              "RelativeToolTip": "Leaderboard.Application\\ScoreEvent\\Queries\\GetLeaderboardHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T03:01:36.316Z"
+              "WhenOpened": "2026-03-24T04:34:45.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEntityBase.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
-              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LeaderboardControllerTest.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Api.Test\\LeaderboardControllerTest.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Api.Test\\LeaderboardControllerTest.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\jc test\\src\\Leaderboard\\Leaderboard.Api.Test\\LeaderboardControllerTest.cs",
+              "RelativeToolTip": "Leaderboard.Api.Test\\LeaderboardControllerTest.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv4oAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T03:01:23.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Ports\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain\\Ports\\IGenericRepository.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Ports\\IGenericRepository.cs",
-              "RelativeToolTip": "Leaderboard.Domain\\Ports\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T03:00:35.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersistenceContext.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
-              "RelativeToolTip": "Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:59:38.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppExceptionFilterAttribute.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
-              "RelativeToolTip": "Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:59:02.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppException.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Exceptions\\AppException.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain\\Exceptions\\AppException.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Exceptions\\AppException.cs",
-              "RelativeToolTip": "Leaderboard.Domain\\Exceptions\\AppException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:58:25.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:57:02.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PersistenceExtensions.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
-              "RelativeToolTip": "Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:56:15.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Leaderboard.Api\\appsettings.json",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\appsettings.json",
-              "RelativeToolTip": "Leaderboard.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-19T02:53:56.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Leaderboard.Domain.Test.csproj",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
-              "RelativeDocumentMoniker": "Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
-              "RelativeToolTip": "Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-19T02:47:39.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Leaderboard.Api.Test.csproj",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
-              "RelativeDocumentMoniker": "Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
-              "RelativeToolTip": "Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-19T02:47:29.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Api.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\UnitTest1.cs",
-              "RelativeToolTip": "Leaderboard.Api.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:47:22.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Test1.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Domain.Test\\Test1.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Test1.cs",
-              "RelativeToolTip": "Leaderboard.Domain.Test\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:46:34.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Leaderboard.Application\\Class1.cs",
-              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Application\\Class1.cs",
-              "RelativeToolTip": "Leaderboard.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:43:43.435Z"
+              "WhenOpened": "2026-03-24T04:06:46.809Z",
+              "EditorCaption": ""
             }
           ]
         },

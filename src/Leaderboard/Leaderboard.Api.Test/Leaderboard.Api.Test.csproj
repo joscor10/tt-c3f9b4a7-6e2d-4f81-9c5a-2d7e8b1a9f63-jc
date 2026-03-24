@@ -1,21 +1,39 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="MSTest.Sdk/4.0.1">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <IsPackable>false</IsPackable>
+    <UseVSTest>true</UseVSTest>
+    <PreserveCompilationContext>true</PreserveCompilationContext>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="coverlet.collector" Version="6.0.4" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
-    <PackageReference Include="xunit" Version="2.9.3" />
-    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="10.0.5" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="MSTest.TestAdapter" Version="3.0.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
   </ItemGroup>
 
+  <!-- AÑADIR referencia al proyecto API para que se compile antes y genere los .deps -->
   <ItemGroup>
-    <Using Include="Xunit" />
+    <ProjectReference Include="..\Leaderboard.Api\Leaderboard.Api.csproj" />
+    <ProjectReference Include="..\Leaderboard.Infrastructure\Leaderboard.Infrastructure.csproj" />
   </ItemGroup>
 
+  <!-- Copiar archivos deps del proyecto API al output del proyecto de tests sólo si existen -->
+  <Target Name="CopyApiDeps" AfterTargets="Build">
+    <ItemGroup>
+      <ApiDeps Include="..\Leaderboard.Api\bin\$(Configuration)\net10.0\*.deps.json"
+               Condition="Exists('..\Leaderboard.Api\bin\$(Configuration)\net10.0')" />
+      <ApiDeps Include="..\Leaderboard.Api\bin\$(Configuration)\net10.0\testhost.deps.json"
+               Condition="Exists('..\Leaderboard.Api\bin\$(Configuration)\net10.0\testhost.deps.json')" />
+    </ItemGroup>
+    <Copy SourceFiles="@(ApiDeps)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+  </Target>
 </Project>
