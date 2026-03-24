@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Leaderboard.Api.Test/Leaderboard.Api.Test.csproj" />
+  <Project Path="Leaderboard.Api/Leaderboard.Api.csproj" />
+  <Project Path="Leaderboard.Application/Leaderboard.Application.csproj" />
+  <Project Path="Leaderboard.Domain.Test/Leaderboard.Domain.Test.csproj" />
+  <Project Path="Leaderboard.Domain/Leaderboard.Domain.csproj" />
+  <Project Path="Leaderboard.Infrastructure/Leaderboard.Infrastructure.csproj" />
+</Solution>

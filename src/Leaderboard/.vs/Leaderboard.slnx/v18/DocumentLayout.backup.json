@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\adapters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\adapters\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\ports\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\ports\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\entities\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\entities\\base\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\context\\persistencecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\context\\persistencecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C503B1E-4251-4149-8EC7-F694A6F887D3}|Leaderboard.Api\\Leaderboard.Api.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C503B1E-4251-4149-8EC7-F694A6F887D3}|Leaderboard.Api\\Leaderboard.Api.csproj|solutionrelative:leaderboard.api\\filters\\appexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97613345-B59C-46CD-A9A0-B6CA266C81CC}|Leaderboard.Domain\\Leaderboard.Domain.csproj|solutionrelative:leaderboard.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.infrastructure\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C5E79-1B3A-4BC1-B1C6-97854877026F}|Leaderboard.Infrastructure\\Leaderboard.Infrastructure.csproj|solutionrelative:leaderboard.infrastructure\\extensions\\persistenceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C503B1E-4251-4149-8EC7-F694A6F887D3}|Leaderboard.Api\\Leaderboard.Api.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C503B1E-4251-4149-8EC7-F694A6F887D3}|Leaderboard.Api\\Leaderboard.Api.csproj|solutionrelative:leaderboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF18E3D2-4FF5-4994-89E3-28419E3B2679}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain.test\\leaderboard.domain.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF18E3D2-4FF5-4994-89E3-28419E3B2679}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|solutionrelative:leaderboard.domain.test\\leaderboard.domain.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330DD97-DB6F-4B15-9892-ED29D2DC0C1B}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api.test\\leaderboard.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5330DD97-DB6F-4B15-9892-ED29D2DC0C1B}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|solutionrelative:leaderboard.api.test\\leaderboard.api.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330DD97-DB6F-4B15-9892-ED29D2DC0C1B}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.api.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5330DD97-DB6F-4B15-9892-ED29D2DC0C1B}|Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj|solutionrelative:leaderboard.api.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF18E3D2-4FF5-4994-89E3-28419E3B2679}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.domain.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF18E3D2-4FF5-4994-89E3-28419E3B2679}|Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj|solutionrelative:leaderboard.domain.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD6A3F7-FA4E-4A40-90F6-557519685CD8}|Leaderboard.Application\\Leaderboard.Application.csproj|d:\\user\\documentos\\proyectos\\prueba\\leaderboard\\leaderboard.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD6A3F7-FA4E-4A40-90F6-557519685CD8}|Leaderboard.Application\\Leaderboard.Application.csproj|solutionrelative:leaderboard.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
+              "RelativeToolTip": "Leaderboard.Infrastructure\\Adapters\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:02:41.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\DomainEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:01:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:01:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Entities\\Base\\IEntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:01:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Ports\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Ports\\IGenericRepository.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Ports\\IGenericRepository.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Ports\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:00:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersistenceContext.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
+              "RelativeToolTip": "Leaderboard.Infrastructure\\Context\\PersistenceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:59:38.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppExceptionFilterAttribute.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
+              "RelativeToolTip": "Leaderboard.Api\\Filters\\AppExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:59:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain\\Exceptions\\AppException.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "Leaderboard.Domain\\Exceptions\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:58:25.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Leaderboard.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:57:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersistenceExtensions.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
+              "RelativeToolTip": "Leaderboard.Infrastructure\\Extensions\\PersistenceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:56:15.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Leaderboard.Api\\appsettings.json",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api\\appsettings.json",
+              "RelativeToolTip": "Leaderboard.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T02:53:56.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Leaderboard.Domain.Test",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
+              "RelativeDocumentMoniker": "Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
+              "RelativeToolTip": "Leaderboard.Domain.Test\\Leaderboard.Domain.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T02:47:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Leaderboard.Api.Test",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
+              "RelativeDocumentMoniker": "Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
+              "RelativeToolTip": "Leaderboard.Api.Test\\Leaderboard.Api.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T02:47:29.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Api.Test\\UnitTest1.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Api.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Leaderboard.Api.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:47:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Domain.Test\\Test1.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Domain.Test\\Test1.cs",
+              "RelativeToolTip": "Leaderboard.Domain.Test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:46:34.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Leaderboard.Application\\Class1.cs",
+              "ToolTip": "D:\\user\\Documentos\\Proyectos\\Prueba\\Leaderboard\\Leaderboard.Application\\Class1.cs",
+              "RelativeToolTip": "Leaderboard.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:43:43.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
